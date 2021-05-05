@@ -5,7 +5,7 @@ class Tree {
   }
 
   static definition() {
-    return 'A tree is a plant  .'
+    return 'A tree is a lovely green plant .'
   }
 }
 
