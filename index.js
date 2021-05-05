@@ -2,7 +2,7 @@
 
 class Tree {
   constructor(species) {
-    this._species = species
+    this.species = species
   }
 
   static definition() {
